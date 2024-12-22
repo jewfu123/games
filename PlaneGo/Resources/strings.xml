@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plist>
+  <dict>
+    
+    <key>plane_text0</key>
+    <string>飞机特性：发射垂直子弹！</string>
+    <key>plane_text1</key>
+    <string>飞机特性：发射热激光，单点&#x000A;物理攻击强！</string>
+    <key>plane_text2</key>
+    <string>飞机特性：发射膨胀子弹，距&#x000A;离越远杀伤力越大！</string>
+    <key>plane_text3</key>
+    <string>飞机特性：发射直线子弹，升&#x000A;级后子弹可以覆盖多个角度！</string>
+    <key>plane_text4</key>
+    <string>飞机特性：发射冷激光，能够&#x000A;冰冻敌机一定时间！</string>
+    <key>plane_text5</key>
+    <string>飞机特性：发射跟踪导弹，子&#x000A;弹发射必定命中目标！</string>
+   
+    <key>game_num</key>
+    <string>第%d关</string>
+    <key>game_score</key>
+    <string>得分：%d</string>
+    <key>game_up_level</key>
+    <string>升到第%d级</string>
+
+    <key>diloag_text00</key>
+    <string>复活</string>
+    <key>diloag_text01</key>
+    <string>重玩</string>
+    <key>diloag_text10</key>
+    <string>下一关</string>
+    <key>diloag_text11</key>
+    <string>返回</string>
+    <key>dialog_score</key>
+    <string>积分：%d</string>
+    <key>dialog_coin</key>
+    <string>金币：%d</string>
+
+    <key>dialog_no_coin</key>
+    <string>金币不足2000，请重新&#x000A;再玩。</string>
+    <key>toast_bomb</key>
+    <string>金币不足500，无法使用炸弹！</string>
+    <key>dialog_able_again</key>
+    <string>复活将消耗2000个金币&#x000A;，请再来一下！</string>
+
+    <key>setting_text0</key>
+    <string>继续游戏</string>
+    <key>setting_text1</key>
+    <string>重新开始</string>
+    <key>setting_text2</key>
+    <string>选择关卡</string>
+    
+    
+    
+  </dict>
+</plist>

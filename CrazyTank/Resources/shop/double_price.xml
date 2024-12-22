@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">双倍攻击，防御</string>
+    <string name="doubleAttack">200</string>
+    <string name="doubleDefense">300</string>
+    <string name="lockTank">300</string>
+</resources>

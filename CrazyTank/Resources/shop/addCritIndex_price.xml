@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">增加暴击价格</string>
+    <string name="addCritIndex0">500</string>
+    <string name="addCritIndex1">500</string>
+    <string name="addCritIndex2">500</string>
+</resources>

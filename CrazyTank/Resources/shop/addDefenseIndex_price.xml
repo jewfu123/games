@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">增加防御升级价格</string>
+    <string name="addDefenseIndex0">500</string>
+    <string name="addDefenseIndex1">500</string>
+    <string name="addDefenseIndex2">500</string>
+</resources>

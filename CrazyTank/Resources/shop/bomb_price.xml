@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">每个炸弹价格</string>
+    <string name="bomb">500</string>
+</resources>

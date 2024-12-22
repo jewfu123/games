@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="bulletSpeed">250</string><string name="bulletAttack">100</string><string name="bulletRange">15</string><string name="bulletStrength">1</string><string name="rateOfFire">1.2</string><string name="critRate">15</string><string name="penetrate">15</string><string name="defense">0</string><string name="lifeNum">200</string><string name="moveSpeed">170</string><string name="trackRadius">6</string></resources>

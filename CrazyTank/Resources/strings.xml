@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">你好吗？</string>
+    <string name="name">10</string>
+    <string name="state0">3</string>
+    <string name="state1">3</string>
+    <string name="state2">3</string>
+    <string name="state3">4</string>
+    <string name="state4">4</string>
+    <string name="state5">4</string>
+    <string name="state6">5</string>
+    <string name="state7">5</string>
+    <string name="state8">5</string>
+    <string name="state9">5</string>
+    <string name="state10">5</string>
+    <string name="state11">6</string>
+    <string name="state12">6</string>
+    <string name="state13">6</string>
+    <string name="state14">6</string>
+    <string name="state15">6</string>
+    <string name="state16">6</string>
+    <string name="state17">6</string>
+    <string name="state18">6</string>
+    <string name="state19">6</string>
+    <string name="state20">6</string>
+    <string name="state21">6</string>
+    <string name="state22">7</string>
+    <string name="state23">7</string>
+    <string name="state24">7</string>
+    <string name="state25">7</string>
+    <string name="state26">7</string>
+    <string name="state27">7</string>
+    <string name="state28">7</string>
+    <string name="state29">7</string>
+    <string name="state30">7</string>
+    <string name="state31">7</string>
+    <string name="state32">7</string>
+    <string name="state33">7</string>
+    <string name="state34">7</string>
+    <string name="state35">7</string>
+    <string name="state36">8</string>
+    <string name="state37">8</string>
+    <string name="state38">8</string>
+    <string name="state39">9</string>
+    <string name="state40">12</string>
+    <string name="state41">12</string>
+    <string name="state42">12</string>
+    <string name="time">30</string>
+    <string name="limit">5</string>
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="task_1">4</string>
+    <string name="task_2">1</string>
+    <string name="task_3">20</string>
+    <string name="task_4">100</string>
+    <string name="task_5">1000</string>
+    <string name="task_6">6</string>
+    <string name="task_7">20</string>
+    <string name="task_8">2000</string>
+    <string name="task_9">12</string>
+    <string name="task_10">1</string>
+    <string name="task_gold_1">20</string>
+    <string name="task_gold_2">20</string>
+    <string name="task_gold_3">20</string>
+    <string name="task_gold_4">20</string>
+    <string name="task_gold_5">20</string>
+    <string name="task_gold_6">20</string>
+    <string name="task_gold_7">20</string>
+    <string name="task_gold_8">20</string>
+    <string name="task_gold_9">20</string>
+    <string name="task_gold_10">20</string>
+</resources>

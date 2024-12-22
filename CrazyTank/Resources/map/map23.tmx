@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="13" height="13" tilewidth="60" tileheight="60">
+ <properties>
+  <property name="6" value="10"/>
+  <property name="7" value="10"/>
+  <property name="9" value="20"/>
+ </properties>
+ <tileset firstgid="1" name="floor_grass" tilewidth="60" tileheight="60">
+  <image source="floor_grass.png" width="240" height="600"/>
+ </tileset>
+ <tileset firstgid="41" name="block" tilewidth="60" tileheight="120">
+  <image source="block.png" width="600" height="600"/>
+ </tileset>
+ <tileset firstgid="91" name="bridge" tilewidth="60" tileheight="60">
+  <image source="bridge.png" width="360" height="60"/>
+ </tileset>
+ <tileset firstgid="97" name="garbage" tilewidth="60" tileheight="60">
+  <image source="garbage.png" width="540" height="60"/>
+ </tileset>
+ <layer name="floor" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJzjZGBg4CQTc1OgdzCbQytMTfcRaxY2ddxkmDOQ/gcA/MkGBA==
+  </data>
+ </layer>
+ <layer name="river" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAfkARiaRL1qAOxGhBrkKhHFskukL1KQKyIhKXRzJQBYmUglkLjw7A81B3IAN1NGmhYHUkPse5H1kMsALlVigQ7yAXI8UdL/6DrAQDKnQXr
+  </data>
+ </layer>
+ <layer name="riverfake" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBicwG2gHTAKBg0AAJHsAEc=
+  </data>
+ </layer>
+ <layer name="bridge" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg+wG2gHTAKaAIAg7QARw==
+  </data>
+ </layer>
+ <layer name="garbage" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAPJFFJHbHmUANQwy5KzUhCo3GBRArtIWQOtcynhZnoYQQA2zME9w==
+  </data>
+ </layer>
+ <layer name="block0" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYEAFmgyYAJvYKBgF9AIA0tgAUw==
+  </data>
+ </layer>
+ <layer name="block1" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAcaBIpNgpGATkAAMIwAFM=
+  </data>
+ </layer>
+ <layer name="block2" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYoEmk2CgYBQCxiABT
+  </data>
+ </layer>
+ <layer name="block3" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh6QBMNj4LhDQA8mwCl
+  </data>
+ </layer>
+ <layer name="block4" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBheQGugHTAKqA4AT2wAKw==
+  </data>
+ </layer>
+ <layer name="block5" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFWgPtgFGAFwAARuQAKw==
+  </data>
+ </layer>
+ <layer name="block6" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFlAJtKB4FtAEAeDgAVw==
+  </data>
+ </layer>
+ <layer name="block7" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFAwm0oXgU4AYAZBAAVw==
+  </data>
+ </layer>
+ <layer name="block8" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQwG4A7EHlK0FxSMFAADcYADk
+  </data>
+ </layer>
+ <layer name="block9" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFww1oo9EgoAXFQxEAAIQ0AKs=
+  </data>
+ </layer>
+ <layer name="block10" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4CBQQuNHkwAADSEAFU=
+  </data>
+ </layer>
+ <layer name="block11" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B6QBMJUwsAACkUAHw=
+  </data>
+ </layer>
+ <layer name="block12" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4C+wB2IPZD4mkAcCqWxAQAumAE3
+  </data>
+ </layer>
+ <objectgroup name="Objects" width="13" height="13">
+  <object name="plyartPoint" x="274" y="722" width="27" height="27"/>
+  <object name="enemyPoint1" x="750" y="3" width="28" height="28"/>
+  <object name="enemyPoint2" x="33" y="3" width="28" height="28"/>
+  <object name="enemyPoint3" x="452" y="2" width="28" height="28"/>
+ </objectgroup>
+ <layer name="grass" width="13" height="13">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgaIGUQmomuPwUNU9MuctwzXOwCAAW/A+k=
+  </data>
+ </layer>
+</map>

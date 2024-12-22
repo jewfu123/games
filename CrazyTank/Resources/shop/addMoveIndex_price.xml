@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">增加动力升级价格</string>
+    <string name="addMoveIndex0">500</string>
+    <string name="addMoveIndex1">500</string>
+    <string name="addMoveIndex2">500</string>
+</resources>

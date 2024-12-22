@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello"></string>
+    <string name="loseBloodNumPos_1x_start">30</string>
+    <string name="loseBloodNumPos_1y_start">50</string>
+    <string name="loseBloodNumPos_1x_end">30</string>
+    <string name="loseBloodNumPos_1y_end">50</string>
+    <string name="loseBloodNumPos_2x_start">60</string>
+    <string name="loseBloodNumPos_2y_start">20</string>
+    <string name="loseBloodNumPos_2x_end">60</string>
+    <string name="loseBloodNumPos_2y_end">20</string>
+    <string name="loseBloodNumTime">0.5</string>
+</resources>

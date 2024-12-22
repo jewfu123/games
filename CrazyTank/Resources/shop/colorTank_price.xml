@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">坦克颜色价格</string>
+    <string name="greenTank">100</string>
+    <string name="buleTank">200</string>
+    <string name="redTank">500</string>
+</resources>

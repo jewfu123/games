@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">增加生命升级价格</string>
+    <string name="addLifeIndex0">50</string>
+    <string name="addLifeIndex1">100</string>
+    <string name="addLifeIndex2">500</string>
+</resources>

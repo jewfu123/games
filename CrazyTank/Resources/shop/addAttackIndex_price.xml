@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">增加攻击力升级价格</string>
+    <string name="addAttackIndex0">500</string>
+    <string name="addAttackIndex1">500</string>
+    <string name="addAttackIndex2">500</string>
+</resources>

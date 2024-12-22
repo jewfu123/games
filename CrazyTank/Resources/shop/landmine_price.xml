@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">地雷升级价格和每个地雷价格</string>
+    <string name="landmineIndex1">300</string>
+    <string name="landmineIndex2">300</string>
+    <string name="landmine">200</string>
+</resources>
