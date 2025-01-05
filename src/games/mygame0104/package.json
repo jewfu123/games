@@ -1,9 +1,8 @@
 {
-  "name": "tank",
-  "version": "0.0.1",
-  "description": "Tank for Phaser 3 in TypeScript",
-  "keywords": [],
+  "name": "mygame0104",
+  "version": "1.0.0",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "build-dev": "webpack --mode development",
     "build-prod": "webpack --mode production",
     "serve-dev": "webpack --mode development && webpack serve --mode development"
@@ -24,17 +23,7 @@
   "dependencies": {
     "phaser": "3.80.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/digitsensitive/phaser3-typescript.git"
-  },
-  "author": {
-    "name": "digitsensitive",
-    "email": "digit.sensitivee@gmail.com"
-  },
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/digitsensitive/phaser3-typescript/issues"
-  },
-  "homepage": "https://github.com/digitsensitive/phaser3-typescript#readme"
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
